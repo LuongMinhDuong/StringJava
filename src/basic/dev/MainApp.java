@@ -85,41 +85,6 @@ public class MainApp {
 		}
 		System.out.println(String.format("\nchu %s xuat hien %d lan", prevValue, prevCount));
 	}
-		
-	
-	
-			
-				
-		//Dao vi tri chuoi
-		
-		//byte []  stringAsByteArr  = string.getBytes();
-		//byte []  resultString = new byte [stringAsByteArr.length];
-		
-	
-		//int t = stringAsByteArr.length;
-		//for(int i = stringAsByteArr.length - 1  ; i >= 0  ; i--) {
-			//char text = string.charAt(i);
-			//if(Character.isSpace(text)) {
-			//	for(int j = i ; j < t ;j++) {
-				//	resultString[j] = stringAsByteArr[j-1];
-				//	t = i;	
-				//}
-				
-			//}
-			
-		//}
-		//System.out.println(new String(resultString));
-		
-		/*
-		 * 
-		 */
-		//byte []  stringAsByteArr  = string.getBytes();
-		//byte []  resultString = new byte [stringAsByteArr.length];
-		
-		//for(int i = 0 ; i < stringAsByteArr.length ; i++) {
-		//resultString[i] = stringAsByteArr[stringAsByteArr.length - i - 1];
-		//}
-	//System.out.println(new String(resultString));
 	}
 
 
